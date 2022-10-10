@@ -29,8 +29,8 @@
 ## docker rmi idcontainer
 
 # Construir uma imagem apartir de um dockerfile
-# docker build -t edilosousa/nginx:latest .
-# docker run -p 8000:80 edilosousa/nginx:latest
+## docker build -t edilosousa/nginx:latest .
+## docker run -p 8000:80 edilosousa/nginx:latest
 
 # Compartilhamento no docker hub -- compartilhará na sua conta docker
 ## docker push nomedaimagem
